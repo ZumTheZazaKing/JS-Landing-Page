@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cadetblue;
+    background-repeat: no-repeat;
+}
+
+#container{
+    text-align: center;
+    font-family: 'Quicksand';
+    margin-top: 18%;
+}
+
+#time{
+    font-size: 86px;
+    margin: 0;
+}
+
+#message{
+
+    font-size: 24px;
+    margin: 0;
+
+}
+
+#quote{
+    font-size: 20px;
+}
